@@ -1,0 +1,3 @@
+# Ignorar carpeta el ambiente ya que pasa a ser propia de cada maquina
+venv/
+
